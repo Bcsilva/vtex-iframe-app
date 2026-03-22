@@ -1,0 +1,8 @@
+{
+  "dynamic-iframe":{
+    "props":{
+      "id": "external-iframe",
+      "src": "https://www.domain.com/iframe-page.htm"
+    }
+  } 
+}
